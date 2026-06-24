@@ -37,5 +37,5 @@ classification of `Late_delivery_risk`.
 
 ## Links
 
-- Report: TBD
-- Demo video: TBD
+- [Report](https://drive.google.com/file/d/1VLewb9aXnj2unDsy3abasS1JOZzmLJ3m/view?usp=sharing)
+- [Demo video](https://www.canva.com/design/DAHNhF_qkFs/xclCYStJza8_HtrGyh2NWg/watch?utm_content=DAHNhF_qkFs&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h4b3f8a6b37)
