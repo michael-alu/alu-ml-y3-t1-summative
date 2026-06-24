@@ -1,20 +1,20 @@
 # Predicting Late Delivery Risk in Global Supply Chains
 
-ALU ML (Year 3, Trimester 1) Summative Project — Model Training and Evaluation.
+ALU ML (Year 3, Trimester 1) Summative Project - Model Training and Evaluation.
 
 ## Problem
 
 Late deliveries are one of the most common and costly failure points in supply
 chains, eroding customer trust and creating downstream operational costs. This
 project asks: **at the moment an order is placed, can we predict whether it is at
-risk of arriving late** — using only information available at order time — so that
+risk of arriving late** — using only information available at order time - so that
 operations teams can intervene proactively (expedite, re-route, or notify the
 customer)?
 
 ## Dataset
 
 [DataCo Smart Supply Chain for Big Data Analysis](https://www.kaggle.com/datasets/shashwatwork/dataco-smart-supply-chain-for-big-data-analysis)
-— 180,519 orders across five global markets (LATAM, Europe, Pacific Asia, USCA,
+- 180,519 orders across five global markets (LATAM, Europe, Pacific Asia, USCA,
 Africa), with order, customer, product, and shipping details. See
 [`data/README.md`](data/README.md) for download details.
 
@@ -29,7 +29,7 @@ classification of `Late_delivery_risk`.
 ## Repository Structure
 
 ```
-├── data/         # dataset + download instructions
+├── data/         # dataset + download instructions (not pushed due to file size)
 ├── notebooks/    # main analysis notebook (all experiments)
 ├── results/      # experiment logs / saved figures
 └── requirements.txt
